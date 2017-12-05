@@ -1,0 +1,17 @@
+[33mcommit 305e241fd1c3c5dced08eff754ed230401beb6ad[m
+Author: vagrant <vagrant@homestead>
+Date:   Tue Dec 5 13:24:15 2017 +0000
+
+    users page working without photos
+
+[33mcommit 51b2c0cf5a9adff4f6ed82e75481efaef8626af4[m
+Author: vagrant <vagrant@homestead>
+Date:   Mon Dec 4 13:33:23 2017 +0000
+
+    admin master page setup
+
+[33mcommit 83bdfee3c6286a444ae7ed42764fa7b48e1d43e4[m
+Author: vagrant <vagrant@homestead>
+Date:   Mon Dec 4 07:02:51 2017 +0000
+
+    Adaugat view-urile de admin
